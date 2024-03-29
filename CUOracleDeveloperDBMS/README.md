@@ -91,7 +91,7 @@ Official Oracle Documentation: https://container-registry.oracle.com/ords/ocr/ba
 - [Jayson Mendoza's Github](https://github.com/JaysonMendoza)
 
 ## Project Repo
-- [Jayson's Github carleton-university-docker-builds ](https://github.com/JaysonMendoza/carleton-university-docker-builds/tree/main/OracleDeveloperDBMS)
+- [Jayson's Github carleton-university-docker-builds ](https://github.com/JaysonMendoza/docker-builds/tree/main/CUOracleDeveloperDBMS)
 
 ## Versioning
 - This project uses the [Semantic Versioning 2.0.0 specification](https://semver.org/)
